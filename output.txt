@@ -1,0 +1,2 @@
+
+Hello I am characters from input.txt
